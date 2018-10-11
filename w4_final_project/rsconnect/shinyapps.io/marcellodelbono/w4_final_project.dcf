@@ -1,0 +1,12 @@
+name: w4_final_project
+title: w4_final_project
+username:
+account: marcellodelbono
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 507672
+bundleId: 1637553
+url: https://marcellodelbono.shinyapps.io/w4_final_project/
+when: 1539280762.84603
+asMultiple: FALSE
+asStatic: FALSE
